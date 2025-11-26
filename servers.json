@@ -1,8 +1,11 @@
 [
     {
-      "x2": "false",
-      "name": "Name",
+      "color": "FF0000",
+      "dopname": "(X2)",
+      "maxonline": 1000,
+      "name": "RuslandoRP",
       "online": 2,
-      "maxonline": 1000
+      "ip": "188.127.241.74",
+      "port": 1649
     }
- ]
+  ]
